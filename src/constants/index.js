@@ -54,7 +54,7 @@ import {
     },
     {
       id: "3",
-      title: "Roadmap",
+      title: "About",
       url: "#roadmap",
     },
     {
