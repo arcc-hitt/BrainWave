@@ -50,6 +50,8 @@ Welcome to ZenithAI, a modern UI/UX website developed using ReactJS and Tailwind
 
 👉 **Parallax Animations**: Engaging users with captivating parallax effects triggered by mouse movement and scrolling, adding depth and interactivity to the user interface.
 
+<video autoplay src="ZenithAI and 1 more page - Personal - Microsoft​ Edge 2024-04-26 00-08-00.mp4" title="Parallax"></video>
+
 👉 **Complex UI Geometry**: Utilized Tailwind CSS to implement intricate shapes like circular feature displays, grid lines, and side lines, achieving visually stunning and dynamic layouts.
 
 <div align="center">
