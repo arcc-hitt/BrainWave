@@ -42,15 +42,49 @@ Welcome to ZenithAI, a modern UI/UX website developed using ReactJS and Tailwind
 
 👉 **Beautiful Sections**: ZenithAI is comprised of various sections including ensuring a comprehensive and engaging user experience.
 
+<div align="center">
+  <br />
+    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/183423c3-d4b7-48c4-ad82-c0006dabca41" alt="Hero">
+  <br />
+</div>
+
 👉 **Parallax Animations**: Engaging users with captivating parallax effects triggered by mouse movement and scrolling, adding depth and interactivity to the user interface.
 
 👉 **Complex UI Geometry**: Utilized Tailwind CSS to implement intricate shapes like circular feature displays, grid lines, and side lines, achieving visually stunning and dynamic layouts.
 
+<div align="center">
+  <br />
+    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/3fb13c4d-f60c-4e2e-80d8-b15446f9f0b4" alt="Collab">
+  <br />
+</div>
+
 👉 **Latest UI Trends**: Incorporated modern design elements such as bento grids, ensuring that the website remains fresh and relevant in today's ever-evolving digital landscape.
+
+<div align="center">
+  <br />
+    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/0fbeca48-2dd5-4789-94d9-ad0bef79af4b" alt="Bento">
+  <br />
+</div>
 
 👉 **Cool Gradients**: Enhance the visual appeal of your website with stylish gradients applied to cards, buttons, and other elements, creating a polished and eye-catching aesthetic.
 
+<div align="center">
+  <br />
+    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/fc5f178d-2594-4665-a0c4-11ecbd81eb12" alt="Gradient">
+  <br />
+</div>
+
 👉 **Responsive**: Ensure a seamless user experience across all devices, from desktops to smartphones, with a responsive design that adapts to various screen sizes and resolutions.
+
+<div align="center">
+  <br />
+    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/0343403f-c047-4571-ba04-b2259856744e" alt="mobile1" width="250px" height="500px">
+    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/b9f3a618-1913-4107-8438-fd51bb1a9b48" alt="mobile2" width="250px" height="500px">
+    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/8e0dd58c-eef8-4849-9874-2cac52ea5776" alt="mobile3" width="250px" height="500px">
+    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/858967a3-24fd-4b83-bf19-39581b5897a9" alt="mobile4" width="250px" height="500px">
+    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/19bd8d32-4bbe-4485-bea0-652785a0c1ee" alt="mobile5" width="250px" height="500px">
+  <br />
+</div>
 
 👉 **Code Architecture and Reusability**: Designed a well-structured codebase and maximize code reusability, making maintenance and future development tasks more efficient and scalable.
 
