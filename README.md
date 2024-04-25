@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/B91wc5dCEBA" target="_blank">
-      <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
-    </a>
+    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/c69a3dda-2d7e-403a-ae08-21830141e985" alt="Project Banner">
   <br />
 
   <div>
