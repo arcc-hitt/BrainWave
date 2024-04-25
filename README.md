@@ -24,11 +24,12 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Local Setup](#local-setup)
+5. 🌐 [Acknowledgements](#ack)
 
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Brainwave - Modern UI/UX website, developed using ReactJS and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
+Welcome to ZenithAI, a modern UI/UX website developed using ReactJS and Tailwind CSS. This project exemplifies modern UI/UX principles, boasting a sleek design, seamless animations, and an overall delightful user experience. Whether you're looking for inspiration for your own projects or simply interested in exploring cutting-edge web development techniques, ZenithAI sets a high standard in both form and function.
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
@@ -39,19 +40,19 @@ Brainwave - Modern UI/UX website, developed using ReactJS and Tailwind CSS, exem
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
+👉 **Beautiful Sections**: ZenithAI is comprised of various sections including ensuring a comprehensive and engaging user experience.
 
-👉 **Parallax Animations**: Engaging effects triggered by mouse movement and scrolling
+👉 **Parallax Animations**: Engaging users with captivating parallax effects triggered by mouse movement and scrolling, adding depth and interactivity to the user interface.
 
-👉 **Complex UI Geometry**: Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
+👉 **Complex UI Geometry**: Utilized Tailwind CSS to implement intricate shapes like circular feature displays, grid lines, and side lines, achieving visually stunning and dynamic layouts.
 
-👉 **Latest UI Trends**: Incorporates modern design elements such as bento grids.
+👉 **Latest UI Trends**: Incorporated modern design elements such as bento grids, ensuring that the website remains fresh and relevant in today's ever-evolving digital landscape.
 
-👉 **Cool Gradients**: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
+👉 **Cool Gradients**: Enhance the visual appeal of your website with stylish gradients applied to cards, buttons, and other elements, creating a polished and eye-catching aesthetic.
 
-👉 **Responsive**: Ensures seamless functionality and aesthetics across all devices
+👉 **Responsive**: Ensure a seamless user experience across all devices, from desktops to smartphones, with a responsive design that adapts to various screen sizes and resolutions.
 
-and many more, including code architecture and reusability
+👉 **Code Architecture and Reusability**: Designed a well-structured codebase and maximize code reusability, making maintenance and future development tasks more efficient and scalable.
 
 ## <a name="local-setup">🤸 Local Setup</a>
 
@@ -87,6 +88,11 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the website.
+
+## <a name="ack">🌐 Acknowledgements</a>
+
+Special thanks to the creators of Vite, React, and Tailwind CSS for providing the powerful tools that made this project possible.
+Inspiration and design elements were drawn from various sources in the web development community, contributing to the modern and dynamic aesthetic of ZenithAI.
 
 [Vite]: https://img.shields.io/badge/Vite-4f19a0?style=for-the-badge&logo=vite&logoColor=white
 [Vite-url]: https://vitejs.dev/
