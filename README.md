@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/c69a3dda-2d7e-403a-ae08-21830141e985" alt="Project Banner">
+    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/0e10b9a8-2eaf-48ea-b9ab-28a5873d3d5b" alt="Project Banner">
   <br />
 
   <div>
