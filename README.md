@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/c69a3dda-2d7e-403a-ae08-21830141e985" alt="Project Banner">
+    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/58876170-9634-492a-9b80-4af554657284" alt="Project Banner">
   <br />
 
   <div>
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Tailwind%20CSS-35495E?style=for-the-badge&logo=tailwindcss&logoColor=4FC08D" alt="tailwindcss" />
   </div>
 
-  <h2 align="center">ZenithAI - Modern UI/UX Website</h2>
+  <h2 align="center">ZenithAI - A Modern AI Chatbot Landing Page</h2>
 
    <div align="center">
      <a href="https://zenithai.netlify.app/" target="_blank">View Live Demo</a>
@@ -27,7 +27,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Welcome to ZenithAI, a modern UI/UX website developed using ReactJS and Tailwind CSS. This project exemplifies modern UI/UX principles, boasting a sleek design, seamless animations, and an overall delightful user experience. Whether you're looking for inspiration for your own projects or simply interested in exploring cutting-edge web development techniques, ZenithAI sets a high standard in both form and function.
+Welcome to ZenithAI, a Modern AI Chatbot Landing Page developed using ReactJS and Tailwind CSS. This project exemplifies modern UI/UX principles, boasting a sleek design, seamless animations, and an overall delightful user experience. Whether you're looking for inspiration for your own projects or simply interested in exploring cutting-edge web development techniques, ZenithAI sets a high standard in both form and function.
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
@@ -42,41 +42,51 @@ Welcome to ZenithAI, a modern UI/UX website developed using ReactJS and Tailwind
 
 <div align="center">
   <br />
-    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/183423c3-d4b7-48c4-ad82-c0006dabca41" alt="Hero">
+    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/183423c3-d4b7-48c4-ad82-c0006dabca41" alt="Hero" width="650px" height="300px" />
   <br />
 </div>
+
+<br />
 
 👉 **Parallax Animations**: Engaging users with captivating parallax effects triggered by mouse movement and scrolling, adding depth and interactivity to the user interface.
 
 <div align="center">
   <br />
-    <video autoplay loop src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/71d5b665-2ca7-4496-90fb-eb914ec4245c" type="video/mp4" />
+    <video autoplay loop src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/71d5b665-2ca7-4496-90fb-eb914ec4245c" type="video/mp4" style= "width:650px; height:300px;" />
   <br />
 </div>
+
+<br />
 
 👉 **Complex UI Geometry**: Utilized Tailwind CSS to implement intricate shapes like circular feature displays, grid lines, and side lines, achieving visually stunning and dynamic layouts.
 
 <div align="center">
   <br />
-    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/3fb13c4d-f60c-4e2e-80d8-b15446f9f0b4" alt="Collab">
+    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/3fb13c4d-f60c-4e2e-80d8-b15446f9f0b4" alt="Collab" width="650px" height="300px" />
   <br />
 </div>
+
+<br />
 
 👉 **Latest UI Trends**: Incorporated modern design elements such as bento grids, ensuring that the website remains fresh and relevant in today's ever-evolving digital landscape.
 
 <div align="center">
   <br />
-    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/0fbeca48-2dd5-4789-94d9-ad0bef79af4b" alt="Bento">
+    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/0fbeca48-2dd5-4789-94d9-ad0bef79af4b" alt="Bento" />
   <br />
 </div>
+
+<br />
 
 👉 **Cool Gradients**: Enhance the visual appeal of your website with stylish gradients applied to cards, buttons, and other elements, creating a polished and eye-catching aesthetic.
 
 <div align="center">
   <br />
-    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/fc5f178d-2594-4665-a0c4-11ecbd81eb12" alt="Gradient">
+    <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/fc5f178d-2594-4665-a0c4-11ecbd81eb12" alt="Gradient" width="650px" height="420px" />
   <br />
 </div>
+
+<br />
 
 👉 **Responsive**: Ensure a seamless user experience across all devices, from desktops to smartphones, with a responsive design that adapts to various screen sizes and resolutions.
 
@@ -89,6 +99,8 @@ Welcome to ZenithAI, a modern UI/UX website developed using ReactJS and Tailwind
     <img src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/19bd8d32-4bbe-4485-bea0-652785a0c1ee" alt="mobile5" width="250px" height="500px">
   <br />
 </div>
+
+<br />
 
 👉 **Code Architecture and Reusability**: Designed a well-structured codebase and maximize code reusability, making maintenance and future development tasks more efficient and scalable.
 
@@ -129,8 +141,8 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ## <a name="ack">🌐 Acknowledgements</a>
 
-Special thanks to the creators of Vite, React, and Tailwind CSS for providing the powerful tools that made this project possible.
-Inspiration and design elements were drawn from various sources in the web development community, contributing to the modern and dynamic aesthetic of ZenithAI.
+- Special thanks to the creators of Vite, React, and Tailwind CSS for providing the powerful tools that made this project possible.
+- Inspiration and design elements were drawn from various sources in the web development community, contributing to the modern and dynamic aesthetic of ZenithAI.
 
 [Vite]: https://img.shields.io/badge/Vite-4f19a0?style=for-the-badge&logo=vite&logoColor=white
 [Vite-url]: https://vitejs.dev/
