@@ -52,7 +52,7 @@ Welcome to ZenithAI, a Modern AI Chatbot Landing Page developed using ReactJS an
 
 <div align="center">
   <br />
-    <video autoplay loop src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/71d5b665-2ca7-4496-90fb-eb914ec4245c" type="video/mp4" style= "width:650px; height:300px;" />
+    <video autoplay loop src="https://github.com/arcc-hitt/ZenithAI/assets/118602888/71d5b665-2ca7-4496-90fb-eb914ec4245c" type="video/mp4" />
   <br />
 </div>
 
