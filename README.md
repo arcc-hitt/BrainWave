@@ -141,8 +141,8 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ## <a name="ack">🌐 Acknowledgements</a>
 
-Special thanks to the creators of Vite, React, and Tailwind CSS for providing the powerful tools that made this project possible.
-Inspiration and design elements were drawn from various sources in the web development community, contributing to the modern and dynamic aesthetic of ZenithAI.
+- Special thanks to the creators of Vite, React, and Tailwind CSS for providing the powerful tools that made this project possible.
+- Inspiration and design elements were drawn from various sources in the web development community, contributing to the modern and dynamic aesthetic of ZenithAI.
 
 [Vite]: https://img.shields.io/badge/Vite-4f19a0?style=for-the-badge&logo=vite&logoColor=white
 [Vite-url]: https://vitejs.dev/
